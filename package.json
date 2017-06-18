@@ -1,0 +1,22 @@
+{
+  "name": "satyaprakash",
+  "version": "1.0.0",
+  "description": "Satya's portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test portfolio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proAnimator11/proAnimator11.github.io.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "satyaprakash kumawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proAnimator11/proAnimator11.github.io/issues"
+  },
+  "homepage": "https://github.com/proAnimator11/proAnimator11.github.io#readme"
+}
